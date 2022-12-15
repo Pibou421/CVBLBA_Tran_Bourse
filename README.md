@@ -1,4 +1,4 @@
-#Implementation of Collapsed Variational Bayesian Inference for Latent Dirichlet Allocation
+# Implementation of Collapsed Variational Bayesian Inference for Latent Dirichlet Allocation
 
 This Github aims at implementing a version of the Collapsed Variational Bayesian Inference for Latent Dirichlet Allocation algorithm described by the paper written by Teh Y.W., Newman D., and Welling, M.
 in Advances in Neural Information Processing Systems (NIPS) 19, 2007.
